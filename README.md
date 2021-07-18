@@ -5,5 +5,5 @@ With the use of the ROS framework the basic functionalities of mapping,localizat
 ## What does this package do ?
 
 This is a C++ based software module that shall be having the following functionalities
--Updating the last known position of the AMR into alocal text file.
--Whenever the navigation modules are re-launched ,thelocalization should happen from the lastknown position.That’s the last known coordinates shouldbe read from the local text file and usethat for initialization of AMR
+-> Updating the last known position of the AMR into alocal text file.
+-> Whenever the navigation modules are re-launched ,thelocalization should happen from the lastknown position.That’s the last known coordinates shouldbe read from the local text file and usethat for initialization of AMR
